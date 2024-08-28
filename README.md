@@ -18,4 +18,4 @@ In Eclipse:
 
 ### Author
 
-* David Rios: [https://github.com/riosdavi1](https://github.com/riosdavi1)
+* David Rios: [GitHub](https://github.com/riosdavi1)|[LinkedIn](https://www.linkedin.com/in/riosdavid/)
